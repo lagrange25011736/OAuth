@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Página WEB para probar OAuth.
+Trabajo Distribuidos.
 
 Trabajo de distribuidos.
 
